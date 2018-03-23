@@ -19,7 +19,7 @@ Hologram,Nova,Modem,Active,$49,,https://hologram.io/store/nova-global-cellular-m
 Hologram,Dash Pro,Embedded board,Obsolete,$79,,https://hologram.io/docs/reference/dash/pro-datasheet/,UBLOX,LISA-U200,Y,Y,N,N,N,Y,Y,Y,Y,,,,,,,,,,,,
 Huawei,E303,Modem,Obsolete,$30,,https://www.hackster.io/hologram/connect-raspberry-pi-to-cellular-with-huawei-e303-modem-d870fc,HUAWEI,??,Y,Y,N,N,N,Y,Y,Y,Y,,,,,,,,,,,,
 Huawei,MS2131,Modem,Active,$57,,https://consumer.huawei.com/en/mobile-broadband/e8231/,HUAWEI,??,Y,Y,N,N,N,Y,Y,Y,Y,,,,,,,,,,,,
-NimbeLink,Skywire® LTE-M Modem with GNSS,Add-on Module,Active,$79,,https://nimbelink.com/skywire-4g-lte-cat-m1-gnss/,TELIT,ME910C1,N,N,Y,Y,Y,Y,N,N,?,,,,,,,,,,,,
+NimbeLink,Skywire® LTE-M Modem with GNSS,Add-on Module,Active,$79,,https://nimbelink.com/skywire-4g-lte-cat-m1/,TELIT,ME910C1,N,N,Y,Y,Y,Y,N,N,?,,,,,,,,,,,,
 Nordic Semi,nRF91,Integrated module,Sample,N/A,,https://www.nordicsemi.com/eng/Products/Low-Power-Cellular-IoT/nRF91-SiP-Series,N/A,N/A,N,N,Y,Y,N,Y,Y,Y,?,,,,,,,,,,,,
 Particle,Electron,Embedded board,Active,$59,,https://www.particle.io/products/hardware/electron-cellular-2g-3g-lte/,UBLOX,SARA-U201,Y,Y,N,N,N,Y,Y,Y,Y,,,,,,,,,,,,
 Particle,Mesh,Embedded board,Sample,$39,,https://www.particle.io/mesh/,UBLOX,SARA-R410M,N,N,Y,Y,N,Y,Y,Y,?,,,,,,,,,,,,
